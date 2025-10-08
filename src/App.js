@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+/*import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -22,4 +22,25 @@ function App() {
   );
 }
 
+export default App;*/
+
+import React from 'react';
+import './App.css';
+import Header from './components/Header';
+import About from './components/About';
+import Skills from './components/Skills';
+import Contact from './components/Contact';
+
+function App() {
+  return (
+    <div>
+      <Header />
+      <About />
+      <Skills />
+      <Contact />
+    </div>
+  );
+}
+
 export default App;
+
