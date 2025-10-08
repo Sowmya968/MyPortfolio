@@ -4,9 +4,9 @@ function Contact() {
   return (
     <section className="section contact">
       <h2>Contact</h2>
-      <p>Email: <a href="mailto:sowmya@gmail.com">sowmya@gmail.com</a></p>
-      <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noreferrer">linkedin.com/in/yourprofile</a></p>
-      <p>GitHub: <a href="https://github.com/yourusername" target="_blank" rel="noreferrer">github.com/yourusername</a></p>
+      <p>Email: <a href="https://mail.google.com/mail/u/0/#inbox">dsowmya968@gmail.com</a></p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/in/sowmya-dokka-61b9b432b/" target="_blank" rel="noreferrer">LinkedIn Profile</a></p>
+      <p>GitHub: <a href="https://github.com/Sowmya968" target="_blank" rel="noreferrer">Github Profile</a></p>
     </section>
   );
 }
